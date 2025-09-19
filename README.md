@@ -1,7 +1,7 @@
 # Political Preference Modeling 
 
 ## Overview
-This project analyzes the relationship between **race, gender, and political party preference** using advanced statistical modeling in R. The study applies contingency tables, logistic regression, log-linear models, and model selection methods (AIC, BIC, Lasso regression) to uncover political patterns and associations.
+This project analyzes the relationship between **race, gender, and political party preference** using statistical modeling in R. The study applies contingency tables, logistic regression, log-linear models, and model selection methods (AIC, BIC, Lasso regression) to uncover political patterns and associations.
 
 ---
 
